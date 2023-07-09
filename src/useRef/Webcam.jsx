@@ -40,7 +40,7 @@ let Webcam = () => {
         >
         <section style={{display: "flex"}}>
             <h1 style={{textAlign:"center", display:"flex", alignItems:"center", justifyContent:"center",}}>
-                <i>Web Cam</i>
+                <i>Web Cameraa</i>
                 <div ref={btnRef}></div>
             </h1>
         </section>
